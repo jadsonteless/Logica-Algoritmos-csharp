@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Split",
-    "\\SplitText\\SplitText",
-    "\\Split\\Split",
-    "\\teste-program",
-    "\\teste-program\\teste-program"
+    ""
   ],
-  "SelectedNode": "\\Split\\Split\\Split.csproj",
+  "SelectedNode": "\\Sqrt-Pow",
   "PreviewInSolutionExplorer": false
 }
