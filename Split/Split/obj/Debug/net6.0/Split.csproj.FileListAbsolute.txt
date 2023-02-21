@@ -1,0 +1,15 @@
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\bin\Debug\net6.0\Split.exe
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\bin\Debug\net6.0\Split.deps.json
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\bin\Debug\net6.0\Split.runtimeconfig.json
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\bin\Debug\net6.0\Split.dll
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\bin\Debug\net6.0\Split.pdb
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\Split.csproj.AssemblyReference.cache
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\Split.AssemblyInfoInputs.cache
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\Split.AssemblyInfo.cs
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\Split.csproj.CoreCompileInputs.cache
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\Split.dll
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\refint\Split.dll
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\Split.pdb
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\Split.genruntimeconfig.cache
+C:\Developer\Cursos\Logica-algoritmo-csharp\Split\Split\obj\Debug\net6.0\ref\Split.dll
