@@ -11,12 +11,12 @@ namespace uri1018
             N = int.Parse(Console.ReadLine());
             Console.WriteLine(N);
 
-            resto = N;
+            resto = N; // N entra na var resto.
 
             nota = 100;
-            quociente = resto / nota;
+            quociente = resto / nota; 
             Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
-            resto = resto % nota;
+            resto = resto % nota; // N sai da var resrto e entra o mod da divisao do N pela nota. 
 
             nota = 50;
             quociente = resto / nota;
