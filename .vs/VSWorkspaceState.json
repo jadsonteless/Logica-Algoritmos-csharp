@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\2_0_SplitNumber\\2_0_SplitNumber",
+    "\\2_1_SplitText\\2_1_SplitText",
+    "\\3_0_MathSqrtPowA\\3_0_MathSqrtPowA",
+    "\\3_0_MathSqrtPowB\\3_0_MathSqrtPowB",
+    "\\3_1_MathAbs\\3_1_MathAbs",
+    "\\StringPrint\\StringPrint"
   ],
-  "SelectedNode": "\\Sqrt-Pow",
+  "SelectedNode": "\\StringPrint",
   "PreviewInSolutionExplorer": false
 }
