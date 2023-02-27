@@ -29,32 +29,32 @@ namespace uri1021
             // também deverá ser multiplicado por 100 a seguir.
             nota = 100;
             quociente = resto / (nota * 100);
-            Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
+            Console.WriteLine($"{quociente} nota(s) de R$ {nota}.00");
             resto = resto % (nota * 100);
 
             nota = 50;
             quociente = resto / (nota * 100);
-            Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
+            Console.WriteLine($"{quociente} nota(s) de R$ {nota}.00");
             resto = resto % (nota * 100);
 
             nota = 20;
             quociente = resto / (nota * 100);
-            Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
+            Console.WriteLine($"{quociente} nota(s) de R$ {nota}.00");
             resto = resto % (nota * 100);
 
             nota = 10;
             quociente = resto / (nota * 100);
-            Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
+            Console.WriteLine($"{quociente} nota(s) de R$ {nota}.00");
             resto = resto % (nota * 100);
 
             nota = 5;
             quociente = resto / (nota * 100);
-            Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
+            Console.WriteLine($"{quociente} nota(s) de R$ {nota}.00");
             resto = resto % (nota * 100);
 
             nota = 2;
             quociente = resto / (nota * 100);
-            Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
+            Console.WriteLine($"{quociente} nota(s) de R$ {nota}.00");
             resto = resto % (nota * 100);
 
             Console.WriteLine("MOEDAS:");
