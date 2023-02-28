@@ -1,0 +1,15 @@
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\4_1_Encadeamento.csproj.AssemblyReference.cache
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\4_1_Encadeamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\4_1_Encadeamento.AssemblyInfoInputs.cache
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\4_1_Encadeamento.AssemblyInfo.cs
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\4_1_Encadeamento.csproj.CoreCompileInputs.cache
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\bin\Debug\net6.0\4_1_Encadeamento.exe
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\bin\Debug\net6.0\4_1_Encadeamento.deps.json
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\bin\Debug\net6.0\4_1_Encadeamento.runtimeconfig.json
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\bin\Debug\net6.0\4_1_Encadeamento.dll
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\bin\Debug\net6.0\4_1_Encadeamento.pdb
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\4_1_Encadeamento.dll
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\refint\4_1_Encadeamento.dll
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\4_1_Encadeamento.pdb
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\4_1_Encadeamento.genruntimeconfig.cache
+C:\Developer\Cursos\Logica-algoritmo-csharp\4_1_Encadeamento\4_1_Encadeamento\obj\Debug\net6.0\ref\4_1_Encadeamento.dll
